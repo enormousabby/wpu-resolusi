@@ -3,8 +3,11 @@ RENCANA KONTEN
 VIDEO JAVA SCRIPT 
 a. ES 6
 b. FrameworkJavaScript
-  1. View
+
 funmademntal data structure
+1. Angular
+2. React
 VIDEO PHP FRAMEWORK
+1. aravel
 INTERVIEW
 VLOG
